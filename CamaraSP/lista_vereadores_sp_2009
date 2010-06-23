@@ -1,0 +1,117 @@
+{"wiki_name": "Abou_Anni", "article": "
+{"wiki_name": "Adilson_Amadeu", "article": "
+{"wiki_name": "Adolfo_Quintas", "article": "
+{"wiki_name": "Agnaldo_Timóteo", "article": "
+{"wiki_name": "Alfredinho", "article": "
+{"wiki_name": "Antonio_Carlos_Rodrigues", "article": "
+{"wiki_name": "Arselino_Tatto", "article": "
+{"wiki_name": "Atílio_Francisco", "article": "
+{"wiki_name": "Aurélio_Miguel", "article": "
+{"wiki_name": "Carlos_Alberto_Bezerra_Jr.", "article": "
+{"wiki_name": "Carlos_Apolinário", "article": "
+{"wiki_name": "Celso_Jatene", "article": "
+{"wiki_name": "Chico_Macena", "article": "
+{"wiki_name": "Claudinho_de_Souza", "article": "
+{"wiki_name": "Claudio_Fonseca", "article": "
+{"wiki_name": "Claudio_Prado", "article": "
+{"wiki_name": "Dalton_Silvano", "article": "
+{"wiki_name": "Domingos_Dissiei", "article": "
+{"wiki_name": "Donato", "article": "
+{"wiki_name": "Eliseu_Gabriel", "article": "
+{"wiki_name": "Floriano_Pesaro", "article": "
+{"wiki_name": "Francisco_Chagas", "article": "
+{"wiki_name": "Gabriel_Chalita", "article": "
+{"wiki_name": "Gilberto_Natalini", "article": "
+{"wiki_name": "Gilson_Barreto", "article": "
+{"wiki_name": "Goulart", "article": "
+{"wiki_name": "Ítalo_Cardoso", "article": "
+{"wiki_name": "Jamil_Murad", "article": "
+{"wiki_name": "João_Antonio", "article": "
+{"wiki_name": "Jooji_Hato", "article": "
+{"wiki_name": "José_Américo", "article": "
+{"wiki_name": "José_Olímpio", "article": "
+{"wiki_name": "Juliana_Cardoso", "article": "
+{"wiki_name": "Juscelino", "article": "
+{"wiki_name": "Kamia", "article": "
+{"wiki_name": "Mara_Gabrilli", "article": "
+{"wiki_name": "Marcelo_Aguiar", "article": "
+{"wiki_name": "Marco_Aurélio_Cunha", "article": "
+{"wiki_name": "Marco_Cintra", "article": "
+{"wiki_name": "Marta_Costa", "article": "
+{"wiki_name": "Milton_Ferreira", "article": "
+{"wiki_name": "Milton_Leite", "article": "
+{"wiki_name": "Netinho_de_Paula", "article": "
+{"wiki_name": "Netinho", "article": "
+{"wiki_name": "Noemi_Nonato", "article": "
+{"wiki_name": "Paulo_Frange", "article": "
+{"wiki_name": "Penna", "article": "
+{"wiki_name": "Quito_Formiga", "article": "
+{"wiki_name": "Ricardo_Teixeira", "article": "
+{"wiki_name": "Roberto_Tripoli", "article": "
+{"wiki_name": "Sandra_Tadeu", "article": "
+{"wiki_name": "Senival", "article": "
+{"wiki_name": "Souza_Santos", "article": "
+{"wiki_name": "Toninho_Paiva", "article": "
+{"wiki_name": "Wadih_Mutran", "article": "
+{"wiki_name": "Zelão", "article": "
+
+
+
+
+lista_vereadores = [
+(40502,"ABOU ANNI")
+(40519,"DONATO")
+(40504,"MARTA COSTA")
+(40517,"ADILSON AMADEU")
+(40539,"DR. MILTON FERREIRA")
+(40446,"MILTON LEITE")
+(40514,"ADOLFO QUINTAS")
+(40475,"ELISEU GABRIEL")
+(40456,"MISSIONÁRIO JOSE OLIMPIO")
+(40511,"AGNALDO TIMÓTEO")
+(40537,"FLORIANO PESARO")
+(40506,"NETINHO")
+(40527,"ALFREDINHO")
+(40491,"FRANCISCO CHAGAS")
+(40531,"NETINHO DE PAULA")
+(40464,"ANTONIO CARLOS RODRIGUES")
+(40536,"GABRIEL CHALITA")
+(40510,"NOEMI NONATO")
+(40433,"ANTONIO GOULART")
+(40476,"GILBERTO NATALINI")
+(40449,"PAULO FRANGE")
+(40364,"ARSELINO TATTO")
+(40392,"GILSON BARRETO")
+(40540,"PENNA")
+(40468,"ATÍLIO FRANCISCO")
+(40370,"ITALO CARDOSO")
+(40521,"QUITO FORMIGA")
+(40499,"AURÉLIO MIGUEL")
+(40532,"JAMIL MURAD")
+(40529,"RICARDO TEIXEIRA")
+(40470,"CARLOS ALBERTO BEZERRA JR.")
+(40459,"JOÃO ANTONIO")
+(40374,"ROBERTO TRIPOLI")
+(40473,"CARLOS APOLINÁRIO")
+(40331,"JOOJI HATO")
+(40535,"SANDRA TADEU")
+(40471,"CELSO JATENE")
+(40494,"JOSÉ AMÉRICO")
+(40524,"SENIVAL MOURA")
+(40507,"CHICO MACENA")
+(40533,"JULIANA CARDOSO")
+(40538,"SOUZA SANTOS")
+(40501,"CLAUDINHO")
+(40520,"JUSCELINO")
+(40403,"TONINHO PAIVA")
+(40474,"CLAUDIO FONSECA")
+(40385,"KAMIA")
+(40345,"WADIH MUTRAN")
+(40518,"CLAUDIO PRADO")
+(40528,"MARA GABRILLI")
+(40496,"ZELÃO")
+(40437,"DALTON SILVANO")
+(40541,"MARCELO AGUIAR")
+(40438,"DOMINGOS DISSEI")
+(40534,"MARCO AURELIO CUNHA")
+]
